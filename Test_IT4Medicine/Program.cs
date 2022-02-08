@@ -56,7 +56,7 @@
 
             var endTime = DateTime.Now;
 
-            Console.WriteLine($"performance: {(endTime - startTime).TotalMilliseconds}ms");
+            Console.WriteLine($"performance: {(endTime - startTime).TotalMilliseconds} ms");
             Console.WriteLine($"count of combinations - {count}");
             Console.WriteLine("=================================");
         }
@@ -108,7 +108,7 @@
 
             var endTime = DateTime.Now;
 
-            Console.WriteLine($"performance: {(endTime - startTime).TotalMilliseconds}");
+            Console.WriteLine($"performance: {(endTime - startTime).TotalMilliseconds} ms");
             Console.WriteLine($"count of combinations - {count}");
             Console.WriteLine("=================================");
         }

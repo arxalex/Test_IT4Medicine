@@ -4,13 +4,14 @@
     <projectFile>Test_IT4Medicine/Test_IT4Medicine.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c14b018-0c96-4d7d-8f11-ae810c0c2087" name="Changes" comment="" />
+    <list default="true" id="4c14b018-0c96-4d7d-8f11-ae810c0c2087" name="Changes" comment="add ms" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/arxal/RiderProjects/Test_IT4Medicine/Test_IT4Medicine/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/198a6261cebc324728dcc4c178edc5f2894123f711722c80e8557cbfd27651/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -58,13 +59,43 @@
       <option name="presentableId" value="Default" />
       <updated>1644320592591</updated>
       <workItem from="1644320613478" duration="12216000" />
+      <workItem from="1644333875627" duration="305000" />
     </task>
+    <task id="LOCAL-00001" summary="created">
+      <created>1644333899964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644333899964</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add ms">
+      <created>1644334113142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644334113142</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="created" />
+    <MESSAGE value="add ms" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ms" />
   </component>
 </project>
